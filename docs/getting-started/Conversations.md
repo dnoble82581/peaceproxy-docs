@@ -97,7 +97,7 @@ To create a new conversation:
 ### Conversation Features
 
 - **Message Types**: Send regular messages, alerts, emergency notifications, or whispers (
-  see [Messaging Guide](messaging.md))
+  see [Messaging Guide](../getting-started/Messaging))
 - **File Sharing**: Attach documents, images, or other files to your messages
 - **Reactions**: Quickly acknowledge or respond to messages with emoji reactions
 - **Read Receipts**: See when your messages have been viewed by recipients

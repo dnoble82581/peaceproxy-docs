@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started/overview">
+            to="/docs/getting-started/Overview">
             Peace Proxy Tutorial
           </Link>
         </div>
@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="Peace Proxy"
+      description="Documentation for Peace Proxy online crisis management tool">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
