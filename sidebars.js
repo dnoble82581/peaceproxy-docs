@@ -32,7 +32,18 @@ const sidebars = {
       items: ['reports/reports'],
     },
   ],
-
+  devSidebar: [
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: ['dev/getting-started', 'dev/architecture', 'dev/multi-tenancy', 'dev/realtime', 'dev/storage', 'dev/security', 'dev/styleguide'],
+    },
+    {
+      type: 'category',
+      label: 'API',
+      items: ['dev/authentication', 'dev/chat'],
+    }
+  ],
 };
 
 export default sidebars;
