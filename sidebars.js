@@ -24,7 +24,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Getting Started',
-      items: ['getting-started/Overview', 'getting-started/Messaging', 'getting-started/Conversations'],
+      items: ['getting-started/Overview', 'getting-started/Messaging', 'getting-started/Conversations', 'getting-started/negotiations', 'getting-started/settings', 'getting-started/subjects', 'getting-started/users', 'getting-started/assessments'],
     },
     {
       type: 'category',
